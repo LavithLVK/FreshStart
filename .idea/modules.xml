@@ -3,9 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Version2.iml" filepath="$PROJECT_DIR$/Version2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/qrcode/qrcode.iml" filepath="$PROJECT_DIR$/qrcode/qrcode.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SampleTwo/SampleTwo.iml" filepath="$PROJECT_DIR$/SampleTwo/SampleTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mobilevisionex/mobilevisionex.iml" filepath="$PROJECT_DIR$/mobilevisionex/mobilevisionex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sampletwo/sampletwo.iml" filepath="$PROJECT_DIR$/sampletwo/sampletwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scanqr/scanqr.iml" filepath="$PROJECT_DIR$/scanqr/scanqr.iml" />
       <module fileurl="file://$PROJECT_DIR$/todo/todo.iml" filepath="$PROJECT_DIR$/todo/todo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/todoThemes/todoThemes.iml" filepath="$PROJECT_DIR$/todoThemes/todoThemes.iml" />
     </modules>
   </component>
 </project>

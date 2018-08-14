@@ -1,0 +1,51 @@
+<resources>
+
+    <style name="AppInfo">
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="myTextView" parent="AppInfo">
+        <item name="android:textColor">#f00</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">Hello World!</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+
+    <style name="myButton">
+        <item name="android:textColor">#fff</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:text">Button</item>
+    </style>
+
+    <style name="title" parent="AppInfo">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">8dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:text">Title</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="descripton" parent="AppInfo">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">8dp</item>
+        <item name="android:layout_marginTop">12dp</item>
+        <item name="android:text">description....</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="wrap_content">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+
+    <style name="match_parent">
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_width">match_parent</item>
+    </style>
+
+</resources>

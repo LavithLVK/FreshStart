@@ -1,1 +1,1 @@
-include ':todo', ':SampleTwo', ':sampletwo', ':qrcode'
+include ':todo',':sampletwo', ':todoThemes', ':scanqr', ':mobilevisionex'

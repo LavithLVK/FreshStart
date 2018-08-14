@@ -6,10 +6,12 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.version2.lavithedam.version2.MainActivity">
+
     <android.support.v7.widget.RecyclerView
         android:id="@+id/list_view"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"        android:padding="15dp"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
         app:layout_constraintEnd_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"/>
 

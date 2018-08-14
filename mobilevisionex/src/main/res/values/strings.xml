@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">mobilevisionEx</string>
+    <string name="requestPermission">Please allow permission to Camera unless we Can\'t scan Code.</string>
+</resources>

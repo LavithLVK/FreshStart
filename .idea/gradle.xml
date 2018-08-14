@@ -8,9 +8,11 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/qrcode" />
+            <option value="$PROJECT_DIR$/mobilevisionex" />
             <option value="$PROJECT_DIR$/sampletwo" />
+            <option value="$PROJECT_DIR$/scanqr" />
             <option value="$PROJECT_DIR$/todo" />
+            <option value="$PROJECT_DIR$/todoThemes" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

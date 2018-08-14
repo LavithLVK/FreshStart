@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mainBackground"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/listRecylcer"
+        style="@style/match_parent"
+        android:scrollbars="vertical"/>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab_add_item"
+        style="@style/wrap_content"
+        android:layout_marginBottom="28dp"
+        android:layout_marginRight="16dp"
+        android:backgroundTint="@color/colorFab"
+        android:backgroundTintMode="src_over"
+        app:borderWidth="0dp"
+        android:elevation="6dp"
+        android:foregroundGravity="right|bottom"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:srcCompat="@drawable/icon_add"
+        />
+
+</android.support.constraint.ConstraintLayout>
